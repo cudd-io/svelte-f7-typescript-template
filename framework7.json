@@ -1,0 +1,20 @@
+{
+  "cwd": "./",
+  "type": ["web", "pwa", "capacitor"],
+  "name": "Framework 7 Starter",
+  "pkg": "io.replace.me",
+  "framework": "svelte",
+  "template": "blank",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "capacitor": {
+    "platforms": ["ios", "android"]
+  },
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}

@@ -19,7 +19,7 @@ Framework7.use(Framework7Svelte);
 
 // Mount Svelte App
 const app = new App({
-  target: document.getElementById("app"),
+  target: document.getElementById("app") || document.body,
 });
 
 export default app;

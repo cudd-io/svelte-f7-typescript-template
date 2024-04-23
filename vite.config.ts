@@ -23,6 +23,9 @@ export default defineConfig({
   resolve: {
     alias: {
       "@": SRC_DIR,
+      $lib: path.resolve(SRC_DIR, "lib"),
+      $pages: path.resolve(SRC_DIR, "pages"),
+      $styles: path.resolve(SRC_DIR, "styles"),
     },
   },
   server: {

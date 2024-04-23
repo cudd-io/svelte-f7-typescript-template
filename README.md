@@ -1,4 +1,8 @@
-# Svelte + TS + Vite
+# Svelte Framework 7 Vite Template
+
+This is a customized [Framework 7](https://framework7.io/) starter template for Svelte. It is powered by [Vite](https://vitejs.dev/) and allows for file-based routing with a similar structure to pre-2.0 [SvelteKit](https://github.com/sveltejs/kit). 
+
+<!-- # Svelte + TS + Vite
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
 
@@ -44,4 +48,4 @@ If you have state that's important to retain within a component, consider creati
 // An extremely simple external store
 import { writable } from 'svelte/store'
 export default writable(0)
-```
+``` -->

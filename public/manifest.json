@@ -1,7 +1,7 @@
 {
   "name": "Framework 7 Starter",
-  "short_name": "Framework 7 Starter",
-  "description": "Framework 7 Starter",
+  "short_name": "F7 Starter",
+  "description": "Framework 7 Typescript Starter",
   "lang": "en-US",
   "start_url": "/",
   "display": "standalone",

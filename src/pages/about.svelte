@@ -1,17 +1,17 @@
-<Page name="home">
+<Page name="about">
   <!-- Top Navbar -->
   <Navbar large>
-    <NavTitle>Framework 7 Starter</NavTitle>
-    <NavTitleLarge>Framework 7 Starter</NavTitleLarge>
+    <NavTitle>About</NavTitle>
+    <NavTitleLarge>About</NavTitleLarge>
   </Navbar>
   <!-- Toolbar -->
   <Toolbar bottom>
-    <Link>Left Link</Link>
-    <Link>Right Link</Link>
+    <Link href="/">Home</Link>
+    <Link href="/about/">About</Link>
   </Toolbar>
   <!-- Page content -->
   <Block>
-    <p>Here is your blank Framework7 app. Let's see what we have here.</p>
+    <p>About Page</p>
   </Block>
 
 

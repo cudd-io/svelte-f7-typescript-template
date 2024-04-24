@@ -28,3 +28,8 @@ Reusable components should be added to the `src/lib/components` folder and impor
 - [Framework 7 Documentation](https://framework7.io/docs/)
 - [Svelte Documentation](https://svelte.dev/docs/)
 - [Vite Documentation](https://vitejs.dev/guide/)
+
+## Roadmap
+
+- [ ] Add support for (optional) file-based routing similar to sveltekit.
+  - Should be achievable using vite's [glob import feature](https://vitejs.dev/guide/features.html#glob-import) and would make routing a lot more intuitive imo.
